@@ -1,5 +1,5 @@
 # tensor-print
-a print helper for printing information of a tensor or ndarray
+A print helper for printing tensor or ndarray information, such as shape, device and max.
 
 
 ## Usage
