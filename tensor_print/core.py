@@ -12,7 +12,6 @@ def tpr(var):
 
     else:
         out_str = f'{var_name} | {var_type} | '
-        print(out_str)
 
         if var_type == 'Tensor':
             var_device = var.device
